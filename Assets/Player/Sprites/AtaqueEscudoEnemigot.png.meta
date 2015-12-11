@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 5807c11348ad917488f75046018fc53f
+timeCreated: 1449790093
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AtaqueEscudoEnemigot_0
+    21300002: AtaqueEscudoEnemigot_1
+    21300004: AtaqueEscudoEnemigot_2
+    21300006: AtaqueEscudoEnemigot_3
+    21300008: AtaqueEscudoEnemigot_4
+    21300010: AtaqueEscudoEnemigot_5
+    21300012: AtaqueEscudoEnemigot_6
+    21300014: AtaqueEscudoEnemigot_7
+    21300016: AtaqueEscudoEnemigot_8
+    21300018: AtaqueEscudoEnemigot_9
+    21300020: AtaqueEscudoEnemigot_10
+    21300022: AtaqueEscudoEnemigot_11
+    21300024: AtaqueEscudoEnemigot_12
+    21300026: AtaqueEscudoEnemigot_13
+    21300028: AtaqueEscudoEnemigot_14
+    21300030: AtaqueEscudoEnemigot_15
+    21300032: AtaqueEscudoEnemigot_16
+    21300034: AtaqueEscudoEnemigot_17
+    21300036: AtaqueEscudoEnemigot_18
+    21300038: AtaqueEscudoEnemigot_19
+    21300040: AtaqueEscudoEnemigot_20
+    21300042: AtaqueEscudoEnemigot_21
+    21300044: AtaqueEscudoEnemigot_22
+    21300046: AtaqueEscudoEnemigot_23
+    21300048: AtaqueEscudoEnemigot_24
+    21300050: AtaqueEscudoEnemigot_25
+    21300052: AtaqueEscudoEnemigot_28
+    21300054: AtaqueEscudoEnemigot_29
+    21300056: AtaqueEscudoEnemigot_30
+    21300058: AtaqueEscudoEnemigot_31
+    21300060: AtaqueEscudoEnemigot_32
+    21300062: AtaqueEscudoEnemigot_33
+    21300064: AtaqueEscudoEnemigot_36
+    21300066: AtaqueEscudoEnemigot_37
+    21300068: AtaqueEscudoEnemigot_38
+    21300070: AtaqueEscudoEnemigot_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AtaqueEscudoEnemigot_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 248
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: .261738986, y: .0976036936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 247
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: .701605558, y: .171729192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 249
+        width: 13
+        height: 46
+      alignment: 9
+      pivot: {x: .463344872, y: .158147395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 251
+        width: 14
+        height: 46
+      alignment: 9
+      pivot: {x: .534038007, y: .158147395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 242
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: .28006804, y: .158147395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 247
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .290332019, y: .158147395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_6
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 246
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .747792959, y: .116710499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 247
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: .728732884, y: .135004565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 213
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .169905871, y: .659834623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 214
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .864840627, y: .62786746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 199
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: .691802382, y: .176928908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 198
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: .347513437, y: .135004565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 203
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: .147788674, y: .261738718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_13
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 192
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .233146966, y: .852211654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 201
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: .852212667, y: .664949834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_15
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 193
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: .72873044, y: .135004252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 169
+        width: 75
+        height: 39
+      alignment: 9
+      pivot: {x: .519060791, y: .78102541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 170
+        width: 75
+        height: 39
+      alignment: 9
+      pivot: {x: .493646443, y: .182318658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 136
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .380869627, y: .282639086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 135
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .648912907, y: .282639086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 138
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_21
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 124
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: .650899231, y: .667200446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 122
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 130
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .358532906, y: .290999025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 137
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .841852427, y: .652486563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 126
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: .147788003, y: .225082979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 98
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .137428954, y: .709669173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 98
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .852212012, y: .652486563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 85
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .747791767, y: .810774922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 81
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: .862571359, y: .28006655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_32
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 74
+        width: 25
+        height: 47
+      alignment: 9
+      pivot: {x: .252209485, y: .124865592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_33
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 83
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: .147788674, y: .738260686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AtaqueEscudoEnemigot_42
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 9
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

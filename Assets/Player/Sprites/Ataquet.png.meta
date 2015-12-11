@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 57ddff63bcabeff4fa4bbe10387d5a49
+timeCreated: 1449769177
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ataquet_2
+    21300002: Ataquet_3
+    21300004: Ataquet_4
+    21300006: ataqueLeft
+    21300008: Ataquet_6
+    21300010: Ataquet_7
+    21300012: Ataquet_8
+    21300014: Ataquet_9
+    21300016: Ataquet_10
+    21300018: Ataquet_11
+    21300020: Ataquet_12
+    21300022: Ataquet_13
+    21300024: Ataquet_14
+    21300026: Ataquet_15
+    21300028: Ataquet_16
+    21300030: Ataquet_17
+    21300032: Ataquet_18
+    21300034: Ataquet_19
+    21300036: Ataquet_20
+    21300038: Ataquet_21
+    21300040: Ataquet_22
+    21300042: Ataquet_23
+    21300044: Ataquet_24
+    21300046: Ataquet_25
+    21300048: Ataquet_26
+    21300050: Ataquet_28
+    21300052: Ataquet_29
+    21300054: Ataquet_32
+    21300056: Ataquet_33
+    21300058: Ataquet_34
+    21300060: Ataquet_35
+    21300062: Ataquet_36
+    21300064: Ataquet_37
+    21300066: Ataquet_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ataquet_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 247
+        width: 26
+        height: 46
+      alignment: 9
+      pivot: {x: .831963837, y: .136184022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 253
+        width: 15
+        height: 46
+      alignment: 9
+      pivot: {x: .483593762, y: .120133109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 287
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ataqueLeft
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 253
+        width: 15
+        height: 46
+      alignment: 9
+      pivot: {x: .478218585, y: .145085871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 246
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .301675409, y: .17664437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 245
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .273577869, y: .162935004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 250
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .195183098, y: .114410736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 249
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .741750479, y: .1001295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_10
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 251
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .736494124, y: .0972731188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 216
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .0987319946, y: .736266494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 217
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: .874516666, y: .736645043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 203
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .706733406, y: .130833507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 202
+        width: 25
+        height: 46
+      alignment: 9
+      pivot: {x: .278836668, y: .159892201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 207
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 195
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_17
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 204
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .919722855, y: .778611422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_18
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 197
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 75
+        height: 39
+      alignment: 9
+      pivot: {x: .5, y: .837279499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 173
+        width: 75
+        height: 39
+      alignment: 9
+      pivot: {x: .494589031, y: .169624135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 139
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .357330322, y: .29175207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 139
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .644177437, y: .28645137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_23
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 141
+        width: 57
+        height: 60
+      alignment: 9
+      pivot: {x: .292136759, y: .65765965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_24
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 127
+        width: 60
+        height: 57
+      alignment: 9
+      pivot: {x: .710255921, y: .728953063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 125
+        width: 58
+        height: 61
+      alignment: 9
+      pivot: {x: .725006104, y: .325282365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 133
+        width: 64
+        height: 57
+      alignment: 9
+      pivot: {x: .367458344, y: .293942094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 141
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .885217249, y: .746110857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .141534224, y: .263733506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 101
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .10943272, y: .736266792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_33
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 101
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: .879866898, y: .716578066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 88
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_35
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 85
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_36
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 78
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_37
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 86
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ataquet_44
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
